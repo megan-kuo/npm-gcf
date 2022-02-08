@@ -36,4 +36,4 @@ The command to deploy the function is:
 `gcloud functions deploy helloWorld --runtime nodejs16 --trigger-http --allow-unauthenticated`. Where helloWorld is the function that was defined in the `index.js`.
 
 The command to test the function is: 
-`gcloud functions call hello_team`. Where it should return result `Hello Team`.
+`gcloud functions call hello_team`. Where it should return result `Hello World npm`.
