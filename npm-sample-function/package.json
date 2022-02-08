@@ -1,0 +1,7 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "@npm-gcb-gcf/node-sample-dependency":"^1.0.0"
+  }
+}
