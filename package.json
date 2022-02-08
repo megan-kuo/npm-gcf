@@ -1,0 +1,16 @@
+{
+  "name": "@npm-gcb-gcf/node-sample-dependency",
+  "version": "1.0.2",
+  "description": "",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "artifactregistry-login": "npx google-artifactregistry-auth"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
